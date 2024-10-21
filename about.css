@@ -449,9 +449,9 @@ footer {
         }
       }
 
-    .footer-content {
+    /* .footer-content {
         flex-direction: column;
-    }
+    } */
 
     .footer-column {
         width: 100%;
